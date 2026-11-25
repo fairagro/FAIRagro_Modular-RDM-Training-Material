@@ -37,14 +37,6 @@ Boße, S., Rey Mazón, E., Sahwan, W., Singson, L.S., Vedder, L. (2026): *Resear
 
 DOI: 10.4126/FRL01-006527953
 
-## Acknowledgements
-
-Many of the slides are based on templates and prior work by Justine Vandendorp. We gratefully acknowledge her contributions to the development of these materials.
-
-We also extend our sincere thanks to Hafssa Zainou and Anna Schlimbach for their valuable assistance in the structuring and formatting of the materials.
-
-This work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475.
-
 ## License
 
 This work is licensed under CC BY 4.0:
@@ -305,3 +297,11 @@ For this example the following materials are included:
 - Biernacka, Katarzyna, et al. “Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement.” Zenodo, 14 Dec. 2023. DOI.org (Datacite), https://doi.org/10.5281/ZENODO.1215376.
 - Brilhaus, Dominik, et al. “One Resource to Teach Them All.” *Proceedings of the Conference on Research Data Infrastructure*, vol. 1, Sept. 2023. DOI.org (Crossref), https://doi.org/10.52825/cordi.v1i.267.
 - Petersen, Britta, et al. *Learning Objectives Matrix on the Topic of Research Data Management (RDM).* July 2025. DOI.org (Datacite), https://doi.org/10.5281/ZENODO.15846806.
+
+## Acknowledgements
+
+Many of the slides are based on templates and prior work by Justine Vandendorp. We gratefully acknowledge her contributions to the development of these materials.
+
+We also extend our sincere thanks to Hafssa Zainou and Anna Schlimbach for their valuable assistance in the structuring and formatting of the materials.
+
+This work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475.
